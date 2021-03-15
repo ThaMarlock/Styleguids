@@ -1,0 +1,1 @@
+# Styleguide for AHK (AutoHotKey)
