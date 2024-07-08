@@ -3,8 +3,10 @@
 ## Contents
 
 1. Preamble
-2. Nanming Conventions
-3. Formatting
+2. Naming Conventions
+3. Structure
+4. Formatting
+5. Examples
 4. Imports
 5. Linting
 
