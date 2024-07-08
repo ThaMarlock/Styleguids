@@ -7,8 +7,6 @@
 3. Structure
 4. Formatting
 5. Examples
-
-  
 7. Ordering
 8. Other Conventions
 
