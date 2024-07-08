@@ -4,8 +4,9 @@
 
 1. Preamble
 2. Nanming Conventions
-3. Formatting
-4. Code Structure
+3. Structure
+4. Formatting
+5. Code Structure
 
 ## Preamble
 While there isn't a single official style guide for AutoHotkey, here are some recommendations based on common practices and readability:
@@ -21,6 +22,10 @@ While there isn't a single official style guide for AutoHotkey, here are some re
   
 ### Labels
 - Descriptive names that relate to their use (e.g., LoopStart, ExitRoutine).
+
+## Strucutre
+
+
 
 ## Formatting
 
