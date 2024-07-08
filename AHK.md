@@ -3,7 +3,7 @@
 ## Contents
 
 1. Preamble
-2. Nanming Conventions
+2. Naming Conventions
 3. Structure
 4. Formatting
 5. Code Structure
