@@ -4,8 +4,13 @@
 
 1. Preamble
 2. Naming Conventions
-3. Ordering
-4. Other Conventions
+3. Structure
+4. Formatting
+5. Examples
+
+  
+7. Ordering
+8. Other Conventions
 
 ## Preamble
 This document outlines the recommended coding style for C# projects. It aims to improve code readability, consistency, and maintainability, aligning with Google's internal practices for other languages.
