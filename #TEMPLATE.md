@@ -1,4 +1,4 @@
-# Style Guide for TEMPLATE
+# Styleguide for TEMPLATE
 
 ## Contents
 
