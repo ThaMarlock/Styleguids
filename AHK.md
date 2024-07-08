@@ -6,7 +6,7 @@
 2. Naming Conventions
 3. Structure
 4. Formatting
-5. Code Structure
+5. Examples
 
 ## Preamble
 While there isn't a single official style guide for AutoHotkey, here are some recommendations based on common practices and readability:
@@ -25,7 +25,14 @@ While there isn't a single official style guide for AutoHotkey, here are some re
 
 ## Strucutre
 
-
+### Hotkeys
+- Group related hotkeys together for better organization.
+  
+### Functions
+- Define functions for reusable code blocks.
+  
+### Error Handling
+- Consider using try...finally blocks for robust error handling.
 
 ## Formatting
 
@@ -40,13 +47,4 @@ While there isn't a single official style guide for AutoHotkey, here are some re
 - Start comments with ; for single-line comments.
 - Use multi-line comments with /* and */ for detailed explanations.
 
-## Code Structure
-
-### Hotkeys
-- Group related hotkeys together for better organization.
-  
-### Functions
-- Define functions for reusable code blocks.
-  
-### Error Handling
-- Consider using try...finally blocks for robust error handling.
+## Examples
