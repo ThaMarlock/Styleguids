@@ -3,7 +3,7 @@
 ## Contents
 
 1. Preamble
-2. Nanming Conventions
+2. Naming Conventions
 3. Ordering
 4. Other Conventions
 
