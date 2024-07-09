@@ -18,6 +18,7 @@ Random Text
 Random Text
 
 ## Formatting
-Random Text
+- Max. characters per line:
+- Max. lines per file:
 
 ## Examples
