@@ -1,1 +1,3 @@
-
+*.vsidx
+*.exe
+*.log
