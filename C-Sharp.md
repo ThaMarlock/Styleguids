@@ -31,6 +31,7 @@ Copyright adn info text is at the top of the file. Contains:
 - Description
 - Install (if neccessery)
 - Run/Start (if neccessery)
+- Stop (if neccessery)
 - Version
 
 
