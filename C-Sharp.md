@@ -95,3 +95,6 @@ This document outlines the recommended coding style for C# projects. It aims to 
     - propertie'S
     - Constructor's
     - Method's
+    - Event (OnPropertyChange)
+
+## Structure Class ()
