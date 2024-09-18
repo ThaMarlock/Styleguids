@@ -13,9 +13,11 @@
 ## Preamble
 This document outlines the recommended coding style for C# projects. It aims to improve code readability, consistency, and maintainability, aligning with Google's internal practices for other languages.
 
+
 ## General
 - Max Characters per line: 92
 - Code and Comments in different lines and never in the same line
+
 
 ### Naming Conventions
 - Classes, methods, enums, public fields, public properties, namespaces: PascalCase (e.g., MyClass, GetUserData)
