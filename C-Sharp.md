@@ -60,7 +60,9 @@ Brackets start in the next line.
 
 
 ### Constant's
-
+Constant's are in a region.
+Constant's are listed in the next line after the opening bracket of the class.
+Constant's are listed in accessable and then in alphabetical order.
 
 
 ## Extended Conventions
