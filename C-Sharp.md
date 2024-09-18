@@ -14,7 +14,8 @@
 This document outlines the recommended coding style for C# projects. It aims to improve code readability, consistency, and maintainability, aligning with Google's internal practices for other languages.
 
 ## General
-
+- Max Characters per line: 92
+- Code and Comments in different lines and never in the same line
 
 ### Naming Conventions
 - Classes, methods, enums, public fields, public properties, namespaces: PascalCase (e.g., MyClass, GetUserData)
@@ -23,6 +24,14 @@ This document outlines the recommended coding style for C# projects. It aims to 
 - Interfaces: Start with I (e.g., IDataProvider)
 - Filenames and directory names: PascalCase (e.g., MyClass.cs)
 - File Naming: Ideally, match the main class name within the file (e.g., MyClass.cs for MyClass class). For each class a new file.
+
+
+### Indention
+- Use 2 spaces per indentation level.
+
+
+### Braces
+- Always use curly braces for code blocks, even single-line statements.
 
 
 ## Ordering
