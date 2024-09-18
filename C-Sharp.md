@@ -28,9 +28,9 @@ This document outlines the recommended coding style for C# projects. It aims to 
 - Alphabetical order, with system imports preceding others.
 
 ### Class member ordering
-- Nested classes, enums, delegates, and events.
-- Static, const, and readonly fields.
-- Fields and properties.
+- public, protected, internal, private
+- Constants, fields, properties, constructor, method, eventhandler, event
+- normal, virtual, override
 - Constructors and finalizers.
 - Methods.
 
