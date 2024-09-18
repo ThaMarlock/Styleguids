@@ -48,7 +48,7 @@ This document outlines the recommended coding style for C# projects. It aims to 
 - Avoid ref for struct optimization or passing modifiable containers.
 
 ### Indention
-- Use 4 spaces per indentation level.
+- Use 2 spaces per indentation level.
 
 ### Braces
 - Always use curly braces for code blocks, even single-line statements.
