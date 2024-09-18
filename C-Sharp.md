@@ -48,6 +48,8 @@ Brackets start in the next line
 
 ### Enum's
 Enum's are in a region.
+Enum's are listed in the next line after the opening bracket of the namespace.
+Enum's are listed in accessable and then in alphabetical order.
 
 
 ### Class member ordering
