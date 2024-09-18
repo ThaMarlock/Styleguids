@@ -67,4 +67,18 @@ This document outlines the recommended coding style for C# projects. It aims to 
 - Param's comment's
 - Exception comment'S
 - each one in a seperated line with the keyword /nodes before and after 
-- 
+  
+## Structure Class
+
+- Copyright text
+- using's
+- namespace
+  - enum's
+  - class
+    - constant's
+    - field's
+    - propertie's
+    - constructor'S
+    - method's
+    - event handler'S
+    - event's
