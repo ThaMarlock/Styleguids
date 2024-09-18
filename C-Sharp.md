@@ -52,3 +52,19 @@ This document outlines the recommended coding style for C# projects. It aims to 
 
 ### Braces
 - Always use curly braces for code blocks, even single-line statements.
+
+
+## General
+
+- Max Characters per line: 92
+- Code and Comments in different lines and never in the same line
+
+
+## Methodes
+
+- Each parameter in a seperate line
+- Summery comment 
+- Param's comment's
+- Exception comment'S
+- each one in a seperated line with the keyword /nodes before and after 
+- 
