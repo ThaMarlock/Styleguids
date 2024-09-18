@@ -21,6 +21,7 @@ This document outlines the recommended coding style for C# projects. It aims to 
 - Filenames and directory names: PascalCase (e.g., MyClass.cs)
 - File Naming: Ideally, match the main class name within the file (e.g., MyClass.cs for MyClass class). For each class a new file.
 
+
 ## Ordering
 
 ### Copyright and Info
@@ -35,10 +36,12 @@ Copyright adn info text is at the top of the file. Contains:
 - Version
 
 
-### Namespace using declarations
-- Placed at the top, before any namespaces.
-- Alphabetical order, with system imports preceding others.
+### Using
+Using's are listed directly after the copyright and info part.
+Using's are listed in alphabetical order with a special for the System using's, which are listed before the other using's
 
+
+### Namespace
 
 
 ### Class member ordering
