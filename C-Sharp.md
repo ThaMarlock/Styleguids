@@ -23,13 +23,26 @@ This document outlines the recommended coding style for C# projects. It aims to 
 
 ## Ordering
 
+### Copyright and Info
+Copyright adn info text is at the top of the file. Contains:
+- Copyright text (Year, Company, 'All rights reserved' text)
+- Author
+- License information
+- Description
+- Install (if neccessery)
+- Run/Start (if neccessery)
+- Version
+
+
 ### Namespace using declarations
 - Placed at the top, before any namespaces.
 - Alphabetical order, with system imports preceding others.
 
+
+
 ### Class member ordering
 - public, protected, internal, private
-- Enum, Constants, fields, properties, constructor, method, eventhandler, event
+- Constants, fields, properties, constructor, method, eventhandler, event
 - normal, virtual, override
 - 
 
