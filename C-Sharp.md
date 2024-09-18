@@ -56,10 +56,9 @@ Enum's are listed in accessable and then in alphabetical order.
 Class start two blank lines after the Enum's region.
 Class have always the name of the file. 
 Only one Class per file. Only exception are private class's
+Brackets start in the next line.
 
 
-### Within each group
-- Public members first
 
 ## Other Conventions
 
