@@ -97,4 +97,15 @@ This document outlines the recommended coding style for C# projects. It aims to 
     - Method's
     - Event (OnPropertyChange)
 
-## Structure Class ()
+## Structure Class (Functional Classe's [static])
+
+- Copyright text
+- using'S
+- namespace
+  - enum's
+  - class
+    - constant's
+    - field's
+    - propertie'S
+    - Method'S
+    - Event (OnPropertyChange)
