@@ -109,3 +109,17 @@ This document outlines the recommended coding style for C# projects. It aims to 
     - propertie'S
     - Method'S
     - Event (OnPropertyChange)
+
+## Structure Class (Functional Classe's)
+
+- Copyright texgt
+- using's
+- namespace
+  - enum's
+  - class
+    - constant's
+    - field's
+    - properties
+    - Constructor
+    - Method'S
+    - Event
