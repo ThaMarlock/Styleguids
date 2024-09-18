@@ -83,3 +83,15 @@ This document outlines the recommended coding style for C# projects. It aims to 
     - event handler'S
     - event's
 
+## Structure Class (DataClass)
+
+- Copyright text
+- using'S
+- namespace
+  - enum'S
+  - class
+    - constant'S
+    - field's
+    - propertie'S
+    - Constructor's
+    - Method's
