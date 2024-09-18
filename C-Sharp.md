@@ -59,8 +59,11 @@ Only one Class per file. Only exception are private class's
 Brackets start in the next line.
 
 
+### Constant's
 
-## Other Conventions
+
+
+## Extended Conventions
 
 ### Modifiers
 - Order: public protected internal private new abstract virtual override sealed static readonly extern unsafe volatile async
