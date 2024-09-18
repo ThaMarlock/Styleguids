@@ -52,11 +52,9 @@ Enum's are listed in the next line after the opening bracket of the namespace.
 Enum's are listed in accessable and then in alphabetical order.
 
 
-### Class member ordering
-- public, protected, internal, private
-- Constants, fields, properties, constructor, method, eventhandler, event
-- normal, virtual, override
-- 
+### Class
+Class start two blank lines after the Enum's region.
+
 
 ### Within each group
 - Public members first
