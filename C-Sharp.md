@@ -68,7 +68,7 @@ This document outlines the recommended coding style for C# projects. It aims to 
 - Exception comment'S
 - each one in a seperated line with the keyword /nodes before and after 
   
-## Structure Class
+## Structure Class (general)
 
 - Copyright text
 - using's
@@ -82,3 +82,4 @@ This document outlines the recommended coding style for C# projects. It aims to 
     - method's
     - event handler'S
     - event's
+
