@@ -68,7 +68,10 @@ Constant's are listed in the next line after the opening bracket of the class.
 Constant's are listed in accessable and then in alphabetical order.
 
 
-### 
+### Field's
+Field's are in a region.
+Field's are lited two blank lines after the constant's region.
+Field's are listed in accessable and then in alphabetical order.
 
 
 ## Extended Conventions
