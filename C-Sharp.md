@@ -29,10 +29,9 @@ This document outlines the recommended coding style for C# projects. It aims to 
 
 ### Class member ordering
 - public, protected, internal, private
-- Constants, fields, properties, constructor, method, eventhandler, event
+- Enum, Constants, fields, properties, constructor, method, eventhandler, event
 - normal, virtual, override
-- Constructors and finalizers.
-- Methods.
+- 
 
 ### Within each group
 - Public members first
