@@ -13,7 +13,10 @@
 ## Preamble
 This document outlines the recommended coding style for C# projects. It aims to improve code readability, consistency, and maintainability, aligning with Google's internal practices for other languages.
 
-## Naming Conventions
+## General
+
+
+### Naming Conventions
 - Classes, methods, enums, public fields, public properties, namespaces: PascalCase (e.g., MyClass, GetUserData)
 - Local variables, parameters: camelCase (e.g., userName, isAvailable)
 - Private, protected, internal, and protected internal fields and properties: _camelCase (e.g., _userData, _isEnabled)
@@ -63,6 +66,9 @@ Brackets start in the next line.
 Constant's are in a region.
 Constant's are listed in the next line after the opening bracket of the class.
 Constant's are listed in accessable and then in alphabetical order.
+
+
+### 
 
 
 ## Extended Conventions
