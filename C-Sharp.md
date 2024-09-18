@@ -19,7 +19,7 @@ This document outlines the recommended coding style for C# projects. It aims to 
 - Private, protected, internal, and protected internal fields and properties: _camelCase (e.g., _userData, _isEnabled)
 - Interfaces: Start with I (e.g., IDataProvider)
 - Filenames and directory names: PascalCase (e.g., MyClass.cs)
-- File Naming: Ideally, match the main class name within the file (e.g., MyClass.cs for MyClass class).
+- File Naming: Ideally, match the main class name within the file (e.g., MyClass.cs for MyClass class). For each class a new file.
 
 ## Ordering
 
