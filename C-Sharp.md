@@ -37,11 +37,17 @@ Copyright adn info text is at the top of the file. Contains:
 
 
 ### Using
+Using's are in a region.
 Using's are listed directly after the copyright and info part.
 Using's are listed in alphabetical order with a special for the System using's, which are listed before the other using's
 
 
 ### Namespace
+The namespace are written with two blank line after the using's region
+Brackets start in the next line
+
+### Enum's
+Enum's are in a region.
 
 
 ### Class member ordering
