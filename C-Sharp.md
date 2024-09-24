@@ -94,33 +94,40 @@ Propertie's are listed in accessable and then in alphabetical order.
 ### Constructor's
 Constructor's are in a region.
 Constructor's are listed two blank lines after the propertie's region.
-Constructor'S are list in accssable and then in a alphabetical order.
+Constructor'S are listed in accssable and then in a alphabetical order.
+
+
+### Method's
+Method's are in a region.
+Method's are listed two blank lines after the constructor's region.
+Method's are listed in accessable and then in alphabeticaln oder.
+
+### Event Hanlder
+Event Handler are in a region.
+Event Handler are listed two blank lines after the method's region.
+Event Handler are listed ni´´in assseccable and aphabetical order.
+
+### Event
+Event are in a region.
+Event are listed two blank lines after the event handler region.
+Event are listed in accessable and then in alphabetical order.
+
 
 ## Extended Conventions
 
+
 ### Modifiers
 - Order: public protected internal private new abstract virtual override sealed static readonly extern unsafe volatile async
+
 
 ### ref and out
 - Use out for non-input returns. Place after other parameters.
 - Use ref sparingly, only for necessary input mutation.
 - Avoid ref for struct optimization or passing modifiable containers.
-
-### Indention
-- Use 2 spaces per indentation level.
-
-### Braces
-- Always use curly braces for code blocks, even single-line statements.
-
-
-## General
-
-- Max Characters per line: 92
 - Code and Comments in different lines and never in the same line
 
 
-## Methodes
-
+## Structure
 - Each parameter in a seperate line
 - Summery comment 
 - Param's comment's
